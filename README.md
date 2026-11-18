@@ -13,7 +13,7 @@ This project aims to use NLP (Natural Language Processing) techniques to build a
 
 ### Files:
 - Chatbot: [Project Jupyter Notebook link](https://github.com/FaatimahMajothi98/NLP-Capstone-Chatbot/blob/master/NLP-Capstone/Capstone-YapBot.ipynb)
-- Other Files: [Data Card](https://github.com/FaatimahMajothi98/NLP-Capstone-Chatbot/blob/master/NLP-Capstone/data-card.md), [Data Corpus](https://github.com/FaatimahMajothi98/NLP-Capstone-Chatbot/blob/master/NLP-Capstone/human_chat.txt), [Python file](https://github.com/FaatimahMajothi98/NLP-Capstone-Chatbot/blob/master/NLP-Capstone/chatbot.py)
+- Other Files: [Data Card](https://github.com/FaatimahMajothi98/NLP-Capstone-Chatbot/blob/master/NLP-Capstone/data-card.md), [Data Corpus](https://github.com/FaatimahMajothi98/NLP-Capstone-Chatbot/blob/master/NLP-Capstone/human_chat.txt), [Python file](https://github.com/FaatimahMajothi98/NLP-Capstone-Chatbot/blob/master/NLP-Capstone/YapBot.py)
 
 Thank you for taking the time to review this project!
 Any feedback or improvement suggestions would be greatly appreciated.
